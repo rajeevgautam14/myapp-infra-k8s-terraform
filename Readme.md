@@ -3,6 +3,7 @@ Kubernetes Deployment On-Premises with Terraform
 This project provisions an on-premises Kubernetes cluster using Terraform with:
 
 1 Master (10.10.60.22)
+
 2 Workers (10.10.60.173, 10.10.60.147)
 PostgreSQL DB, Java Backend API, React.js Frontend
 
